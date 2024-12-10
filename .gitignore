@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/retro-internet/.vs/retro-internet
+/retro-internet/bin/Debug/net6.0
+/retro-internet/obj
+*.user
+/retro-internet/.vs/ProjectEvaluation
+/retro-internet/bin
+/retro-internet/Properties/PublishProfiles
